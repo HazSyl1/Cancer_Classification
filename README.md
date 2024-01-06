@@ -98,5 +98,5 @@ export MLFLOW_TRACKING_PASSWORD=a7a47b400fa96a13114cdb46a08acb04513b3b29
     ECR_REPOSITORY_NAME = simple-app
 
 
-AWS
-ECR URI :857623875239.dkr.ecr.us-east-1.amazonaws.com/cancer
+### AWS
+#### ECR URI :857623875239.dkr.ecr.us-east-1.amazonaws.com/cancer
